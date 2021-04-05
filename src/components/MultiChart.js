@@ -58,11 +58,11 @@ export default function MultiChart() {
 
   const names = {
     injValveOpen: 'INJ Valve Open',
-    oilTemp: 'Oil Temp',
+    oilTemp: 'Oil Temperature',
     tubingPressure: 'Tubing Pressure',
-    flareTemp: 'Flare Temp',
+    flareTemp: 'Flare Temperature',
     casingPressure: 'Casing Pressure',
-    waterTemp: 'Water Temp',
+    waterTemp: 'Water Temperature',
     default: 'metric',
   };
 

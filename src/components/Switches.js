@@ -72,7 +72,7 @@ export default function Switches() {
                 inputProps={{ 'aria-label': 'primary checkbox' }}
               />
             }
-            label="Oil Temp"
+            label="Oil Temperature"
             labelPlacement="top"
           />
           <FormControlLabel
@@ -100,7 +100,7 @@ export default function Switches() {
                 inputProps={{ 'aria-label': 'primary checkbox' }}
               />
             }
-            label="Flare Temp"
+            label="Flare Temperature"
             labelPlacement="top"
           />
           <FormControlLabel
@@ -128,7 +128,7 @@ export default function Switches() {
                 inputProps={{ 'aria-label': 'primary checkbox' }}
               />
             }
-            label="Water Temp"
+            label="Water Temperature"
             labelPlacement="top"
           />
         </FormGroup>
